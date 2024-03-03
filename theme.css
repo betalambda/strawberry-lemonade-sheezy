@@ -1,0 +1,52 @@
+:root {
+  --theme-sheezy-50: 252 232 232; /* Search Bar when you hover it */
+  --theme-sheezy-200: 250 209 209; /* Input Fields */
+  --theme-sheezy-250: 240 175 175; /* Comment and Art Description Field */
+  --theme-sheezy-300: 255 255 0;
+  --theme-sheezy-310: 250 209 209; /* Site Background */
+  --theme-sheezy-320: 247 186 186; /* News and Journals Background, Settings Panel Background */
+  --theme-sheezy-330: 250 184 184; /* Footer Color, News and Journals Border, Upload Text color */
+  --theme-sheezy-340: 240 117 117; /* News and Journal Header, Upload Background */
+  --theme-sheezy-350: 249 108 108; /* Theme (Feed and Error) Text Color (DARKMODE) */
+  --theme-sheezy-400: 231 65 65; /* Site Text Color */
+  --theme-sheezy-420: 207 41 41; /* Footer Icons (DARKMODE) */
+  --theme-sheezy-430: 231 65 65; /* Comment and Art Description Button Color */
+  --theme-sheezy-450: 235 95 95; /* Header and Link color */
+  --theme-sheezy-500: 125 28 28; /* News and Journal Text Color, Upload Supported Files color, Footer Icon colors */
+  --theme-sheezy-600: 157 21 21;  /* News and Journal Header Color (DARKMODE), Dropdown (DARKMODE) */
+  --theme-sheezy-800: 95 10 10; /* Feed Header (DARKMODE) */
+  --theme-sheezy-900: 75 10 10; /* Blogpost Background, Header Color (DARKMODE) */
+  --theme-sheezy-1000: 39 5 5; /* Site Background (DARKMODE) */
+  --theme-sheezy-1100: 23 3 3; /* Upload Background (DARKMODE) */
+  --theme-button-default-50: 252 232 232; /* Muted Button Text */
+  --theme-button-default-400: 141 63 63; /* Muted Button Hover */
+  --theme-button-default-500: 123 55 55; /* Muted Buttons (like the three dots on the gallery page) */
+  --theme-button-default-600: 89 31 31; /* Muted Button Active */
+  --theme-button-primary-50: 255 255 0;
+  --theme-button-primary-400: 251 182 182; /* Notification/Upload Buttons Hover */
+  --theme-button-primary-500: 250 160 160; /* Notification/Upload Buttons */
+  --theme-button-primary-600: 249 133 133; /* Notification/Upload Buttons Active */
+  --theme-button-primary-800: 125 28 28; /* Text for Notification/Upload buttons */
+  --theme-button-secondary-50: 255 245 245; /* Browse Button Text */
+  --theme-button-secondary-100: 255 210 210; /* Notification and Upload Button Text (DARKMODE) */
+  --theme-button-secondary-400: 145 33 33; /* Notification and Upload Button Hover (DARKMODE) */
+  --theme-button-secondary-500: 125 28 28; /* Browse Button, Notification and Upload Button (DARKMODE) */
+  --theme-button-secondary-600: 100 20 20; /* Notification and Upload Button Active (DARKMODE) */
+  --theme-button-action-50: 255 250 250; /* Action button text */
+  --theme-button-action-400: 248 32 32; /* Tags, Action button hover */
+  --theme-button-action-500: 249 57 57; /* Action button (like the Save Changes buttons on the profile settings) */
+  --theme-button-action-600: 198 6 6; /* Action button active */
+  --theme-ratings-general-400: 251 182 182; /* General Hover */
+  --theme-ratings-general-500: 250 160 160; /* General Background */
+  --theme-ratings-general-600: 255 255 0;
+  --theme-ratings-general-800: 125 28 28; /* General Text */
+  --theme-ratings-mature-50: 252 232 232; /*Mature Text */
+  --theme-ratings-mature-400: 145 43 43; /* Mature Hover */
+  --theme-ratings-mature-500: 125 28 28; /* Mature Background */
+  --theme-ratings-mature-600: 255 255 0;
+  --theme-footer-hue: 150deg;
+}
+
+a[href="/"] > svg {
+        filter:hue-rotate(149deg) saturate(7);
+    }

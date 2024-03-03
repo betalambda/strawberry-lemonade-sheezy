@@ -7,6 +7,9 @@ This is the Strawberry Lemonade theme I created for the website Sheezy.art. I tr
 # Prerequisites
 You will need to use the Styl**us** extension to be able to use this theme, as well as other UserCSS themes made by others. You do **not** need to be a Basic+ subscriber to use UserCSS themes, just the Stylus extension.
 
+# Installs
+You can install this style from [userstyles.world](https://userstyles.world/style/15071/strawberry-lemonade).
+
 # How to report Issues
 A quick guide to tags:
 - `bug` - Self explanatory. When something broke in my thing and I need to fix it.
